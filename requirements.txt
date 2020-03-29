@@ -5,7 +5,9 @@ pillow
 flask-cors
 requests
 uwsgi
-tensorflow>=1.0.0
+tf-sentencepiece==0.1.83
+sentencepiece==0.1.83
+tensorflow==1.13.1
 #onnx
 #scikit-learn
 #xgboost
