@@ -1,0 +1,13 @@
+configparser
+flask
+jinja2
+pillow
+flask-cors
+requests
+uwsgi
+tensorflow>=1.0.0
+#onnx
+#scikit-learn
+#xgboost
+#mxnet
+#h2o==3.18.0.8
