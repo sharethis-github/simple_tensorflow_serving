@@ -7,7 +7,7 @@ requests
 uwsgi
 tf-sentencepiece==0.1.83
 sentencepiece==0.1.83
-tensorflow==1.13.1
+tensorflow==2.4.0
 #onnx
 #scikit-learn
 #xgboost
